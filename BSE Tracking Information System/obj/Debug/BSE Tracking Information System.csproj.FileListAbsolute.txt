@@ -1,1 +1,10 @@
 \\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\bin\Debug\BSE Tracking Information System.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\bin\Debug\BSE Tracking Information System.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\bin\Debug\BSE Tracking Information System.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE Tracking Information System.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE_Tracking_Information_System.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE Tracking Information System.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE Tracking Information System.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE Tracking Information System.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE_Tracking_Information_System.Login.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE_Tracking_Information_System.Students.resources
