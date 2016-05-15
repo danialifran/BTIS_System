@@ -8,3 +8,5 @@
 \\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE Tracking Information System.pdb
 \\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE_Tracking_Information_System.Login.resources
 \\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\obj\Debug\BSE_Tracking_Information_System.Students.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\bin\Debug\BTISdb.mdf
+\\Mac\Home\Documents\Visual Studio 2013\Projects\HB\BSE Tracking Information System\BSE Tracking Information System\bin\Debug\BTISdb_log.ldf
