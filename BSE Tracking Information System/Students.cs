@@ -10,9 +10,10 @@ using System.Windows.Forms;
 
 namespace BSE_Tracking_Information_System
 {
-    public partial class Form1 : Form
+    public partial class Students : Form
     {
-        public Form1()
+        
+        public Students()
         {
             InitializeComponent();
         }
